@@ -19,7 +19,3 @@ I have a deep passion for **Machine Learning** 🤖 and **AI** 🌐, and I’m p
 - **Machine Learning & AI**: TensorFlow, PyTorch, Keras, Sci-py, Pandas 📊
 - **Computer Vision**: OpenCV, MediaPipe 🖼️
 - **Web Development**: React, Node.js, Django 🖥️
-
-## Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/avery-crane) 🌟
